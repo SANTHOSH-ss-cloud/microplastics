@@ -1,4 +1,3 @@
-opencv-python-headless==4.10.0.84
-
-pandas
-load_dotenv
+opencv-python-headless
+numpy
+Pillow
