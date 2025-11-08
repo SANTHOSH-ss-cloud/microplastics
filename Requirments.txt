@@ -1,3 +1,0 @@
-cv2
-pandas
-load_dotenv
