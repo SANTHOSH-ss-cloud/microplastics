@@ -1,4 +1,4 @@
 opencv-python-headless
 numpy
 Pillow
-matplotlib.pyplot
+matplotlib
