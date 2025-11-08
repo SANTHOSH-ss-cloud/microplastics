@@ -1,5 +1,12 @@
-opencv-python-headless
-numpy
-Pillow
-matplotlib
-load_dotenv
+streamlit==1.40.0
+opencv-python-headless==4.10.0.84
+matplotlib==3.9.2
+numpy==1.26.4
+pillow==10.4.0
+pandas==2.2.3
+python-dotenv==1.0.1
+
+# Optional: For Gemini / Google GenAI integration
+google-genai>=0.3.0
+# Alternate older SDK (uncomment if using it instead)
+# google-generativeai>=0.3.0
